@@ -1,6 +1,6 @@
 import random
 import time
-import matplotlib.pyplot as plt
+import matplotlib.pyplot as plt # type: ignore
 
 def find_missing_number(A, n):
     # Calculate the sum of the first n natural numbers
