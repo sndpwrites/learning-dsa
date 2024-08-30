@@ -27,8 +27,8 @@ def measure_performance(m, max_n):
     return depths, times
 
 # Set parameters
-m = 5
-max_n = 20
+m = 1
+max_n = 200
 
 # Get performance data
 depths, times = measure_performance(m, max_n)

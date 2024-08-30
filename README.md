@@ -1,6 +1,6 @@
 # Project Title
 
-Learning Data Structures and Algorithms in Python
+Learning Data Structures and Algorithms in Python. Doing runtime analysis and space complexity analysis.
 
 ## Table of Contents
 
